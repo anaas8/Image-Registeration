@@ -4,4 +4,4 @@ From
 ![alt text](https://github.com/anaas8/Image-Registeration/blob/main/inputs.png?raw=true)
 To 
 
-![alt text](hhttps://github.com/anaas8/Image-Registeration/blob/main/output.png?raw=true)
+![alt text](hhttps://github.com/anaas8/Image-Registeration/blob/main/outputs.png?raw=true)
